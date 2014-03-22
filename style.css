@@ -62,12 +62,13 @@ a {
  HEADER
 -------------------------------------------------*/
 
-hgroup nav div{
+nav div{
 	position: relative;
-	height: 80px;
+	height: 120px;
 }
 header{
 	width: 100%;
+	height: 120px;
 	background-color: #fbf9f3;
 
 }
@@ -80,7 +81,29 @@ a.main-logo {
 	white-space: nowrap;
 	overflow: hidden;
 	position: relative;
-	margin-top: -400px;	
+	margin: 20px 0 0 30px;
+}
+header form{
+	float: right;
+}
+header input[type="text"]{
+	width: 180px;
+	height: 30px;
+	border: 1px solid #81A8D9;
+	float: left;
+	position: relative;
+	margin-top: 20px;
+	padding: 0 0 0 10px;
+
+}
+header input[type="submit"]{
+	float: left;
+	padding: 0;
+	margin-top: 20px;
+	width: 32px;
+	height: 32px;
+	border-radius: 0;
+
 }
 /*-------------------------------------------------
 NAV

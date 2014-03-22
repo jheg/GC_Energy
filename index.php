@@ -25,20 +25,31 @@
 <!-- best comment ever -->
 <body>
 	<header>
-		<hgroup>
-		<nav class="clearfix">
-        	<div class="container clearfix">
-                <ul class="main-nav clearfix">
-                    <li id="current"><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Clients</a></li>
-                    <li><a href="#">Candidates</a></li>
-                    <li><a href="#">Jobs</a></li>
-                </ul>
-            </div>
-		</nav>
+		<div class="container">
+			<div class="grid_6 none">
+        	<a href="#" class="main-logo">GC Energy Partners</a>
+        	</div>
+        	<div class="grid_6 none">
+        	<div class="grid_12">
+        	<form action="" method="get">
+				<input name="search" type="text" value="" maxlength="150" placeholder="Search Jobs">
+				<input type="submit" class="searchbutton" value=">">
+			</form>
+        	</div>
+			<nav class="grid_12 clearfix">
+	        	<div class="clearfix">
+	                <ul class="main-nav clearfix">
+	                    <li id="current"><a href="#">Home</a></li>
+	                    <li><a href="#">About</a></li>
+	                    <li><a href="#">Clients</a></li>
+	                    <li><a href="#">Candidates</a></li>
+	                    <li><a href="#">Jobs</a></li>
+	                </ul>
+	            </div>
+			</nav>
+			</div>
+		</div>
 		
-		</hgroup>
 	</header>
 	<section class="banner">
     	<div class="slider">
@@ -47,9 +58,7 @@
                   <li><img src="img/banner-test-2.jpg" /></li>
             </ul>
         </div>
-		<div class="container">
-        	<a href="#" class="main-logo">GC Energy Partners</a>
-        </div>
+		
 	</section>
 	<div class="container"> 
 		<main class="grid_8 omega">
