@@ -396,7 +396,6 @@ ul.cats li a{
  FOOTER
 -------------------------------------------------*/
 footer{
-	color: #DDD;
 	background-color: #6f97c8;
 	min-height: 400px;
 	overflow: auto;
@@ -411,6 +410,9 @@ footer a{
 footer p, footer a{
 	padding: 5px;
 	line-height: 1.4em;
+}
+footer p{
+	color: #DDD;
 }
 footer input[type="submit"]{
 	border: 1px solid #f7f7f7;
