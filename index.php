@@ -183,26 +183,26 @@
 			<form action="/my-handling-form-page" method="post">
 				<div>
 					<label for="first_name"></label>
-					<input type="text" id="first_name" tabindex="1" placeholder="first name" />
+					<input type="text" id="first_name" tabindex="8" placeholder="first name" />
 				</div>
 				<div>
 					<label for="last_name"></label>
-					<input type="text" id="last_name" tabindex="2" placeholder="last name" />
+					<input type="text" id="last_name" tabindex="9" placeholder="last name" />
 				</div>
 				<div>
 					<label for="email"></label>
-					<input type="email" id="email" tabindex="3" placeholder="email" />
+					<input type="email" id="email" tabindex="10" placeholder="email" />
 				</div>
 				<div>
 					<label for="tel"></label>
-					<input type="tel" id="tel" tabindex="4" placeholder="tel" />
+					<input type="tel" id="tel" tabindex="11" placeholder="tel" />
 				</div>
 				<div>
 					<label for="msg"></label>
-					<textarea id="msg" tabindex="5" placeholder="OPTIONAL: enter a message for example: I'm interested in job ID00500"></textarea>
+					<textarea id="msg" tabindex="12" placeholder="OPTIONAL: enter a message for example: I'm interested in job ID00500"></textarea>
 				</div>
 				<div>
-					<input id="submit" tabindex="6" value="Send" type="submit">
+					<input id="submit" tabindex="13" value="Send" type="submit">
 				</div>		
 	    	</form>
 			</section>
