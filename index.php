@@ -26,7 +26,7 @@
 <body>
 	<header>
 		<div class="container">
-			<div class="grid_6 none">
+			<div class="grid_6 notopbottom">
         	<a href="#" class="main-logo">GC Energy Partners</a>
         	</div>
         	<div class="grid_6 none">
@@ -52,7 +52,7 @@
 		
 	</header>
 	<section class="banner">
-    	<div class="slider">
+    	<div class="container slider">
             <ul>
                   <li><img src="img/banner-test-1.jpg" /></li>
                   <li><img src="img/banner-test-2.jpg" /></li>
@@ -61,7 +61,7 @@
 		
 	</section>
 	<div class="container"> 
-		<main class="grid_8 omega">
+		<main class="grid_8">
 			<section class="intro">
 				<h1>Headline/strapline to go here</h1>
 				<p>About us text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>

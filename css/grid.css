@@ -25,7 +25,7 @@
 }
 .alpha {margin-left:0 !important;}
 .omega {margin-right:0 !important;}
-
+.notopbottom {margin-top: 0 !important; margin-bottom: 0 !important;}
 .none {margin: 0 !important;}
 
 .container{
