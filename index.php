@@ -2,6 +2,7 @@
 
 <html lang="en">
 <head>
+  <link rel="icon" type="image/png" href="img/favicon.png" />
   <link href='http://fonts.googleapis.com/css?family=Pathway+Gothic+One' rel='stylesheet' type='text/css'>	
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,300' rel='stylesheet' type='text/css'>
   <meta charset="utf-8">
