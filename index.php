@@ -52,7 +52,7 @@
 		
 	</header>
 	<section class="banner">
-    	<div class="container slider">
+    	<div class="slider">
             <ul>
                   <li><img src="img/banner-test-1.jpg" /></li>
                   <li><img src="img/banner-test-2.jpg" /></li>
