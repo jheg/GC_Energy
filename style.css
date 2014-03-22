@@ -352,6 +352,7 @@ input[type="tel"],
 textarea{
 	background-color: #f7f7f7;
 	padding: 10px;
+	border: 1px solid #EEE;
 }
 textarea{
 	height: 100px;
@@ -410,4 +411,10 @@ footer p, footer a{
 }
 footer input[type="submit"]{
 	border: 1px solid #f7f7f7;
+}
+footer input[type="text"],
+footer input[type="email"],
+footer input[type="tel"],
+footer textarea{
+	border: none;
 }
