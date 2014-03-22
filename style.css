@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family: 'Pathway Gothic One', sans-serif;
 	color: #222;
 }
-h1{}
+h1{ font-size: 1.75em; color: #14143F; margin-bottom: 1em;}
 h2{
 	font-size: 1.25em;
 }
@@ -55,7 +55,7 @@ h3{}
 h4{}
 h5{}
 h6{}
-
+p{ color: #555; line-height: 140%;}
 a {
 	text-decoration:none;	
 }
@@ -309,6 +309,7 @@ section.tabbed_jobs{
     margin-top: 10px;
     font-size: 0.9em;
     color: #555;
+    line-height: 120%;
 }
 .location{
     background-color: blue;
