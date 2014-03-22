@@ -64,8 +64,8 @@
 	<div class="container"> 
 		<main class="grid_8">
 			<section class="intro">
-				<h1>Headline/strapline to go here</h1>
-				<p>About us text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<h1>The recruitment hub for the energy sector</h1>
+				<p>GC Energy is a global provider to many industry leaders within the Energy sector. Providing contract, Permanent and temporary staffing solutions we are able to fill the talent shortage in a number of key markets. Our client portfolio consists of Major Oil operators and contractors right the way to commodity traders & Interdealer brokers. With our main hub in London we operate world-wide in order to meet our clients’ needs and respond rapidly to requests for specialist candidates, wherever they are required. Our teams cover different sectors of employment and the EAMEA regions, allowing us to give clients effective market knowledge and full focus during the hiring process.</p>
 			</section>
 			<section class="tabbed_jobs">
 				<ul class="tabs" data-persist="true">
