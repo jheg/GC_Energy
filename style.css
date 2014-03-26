@@ -40,7 +40,7 @@ body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 100%;
 	background-color: #fbf9f3;
-	background: url(img/sos.png) repeat;
+	/*background: url(img/sos.png) repeat;*/
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -71,7 +71,7 @@ header{
 	width: 100%;
 	height: 120px;
 	background-color: #fbf9f3;
-	background: url(img/sos.png) repeat;
+	/*background: url(img/sos.png) repeat;*/
 
 }
 a.main-logo {
@@ -162,7 +162,7 @@ SLIDESHOW
 section.banner {
 	background-color: #81A8D9;
 	width: 100%;	
-	height: 410px;
+	height: 405px;
 	clear:both;
 }
 .slider ul li img {
@@ -171,7 +171,6 @@ section.banner {
 }
 .slider ul{
 	border-top: 5px solid #81A8D9;
-	border-bottom: 5px solid #81A8D9;
 }
 /* Home */
 
