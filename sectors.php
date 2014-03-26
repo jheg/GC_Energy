@@ -6,6 +6,7 @@
 <ul>
 	<li>Well Services</li>
 	<li>Drilling</li>
+	<li>Petroleum</li>
 	<li>Subsea Technical<ul>
 		<li>ROV</li>
 		<li>Survey &amp; Inspection</li>
