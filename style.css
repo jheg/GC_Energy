@@ -83,7 +83,7 @@ a.main-logo {
 	margin: 20px 0 20px 30px;
 }
 header p.tel{
-	font-size: 1.25em;
+	font-size: 1.15em;
 	clear: both;
 	text-align: right;
 	padding: 10px 10px 10px 0;
@@ -446,20 +446,23 @@ footer{
 footer h2{
 	color: #f7f7f7;
 	padding: 5px;
+
+	margin-bottom: 20px; 
 }
 footer section.sectors a.button{
-	border: 1px solid white;
 	background-color: #81A8D9;
-    padding:12px;
+    padding:5px;
     border-radius: 4px;
     color: #fff;
     font-size: 0.9em;
-	margin-top:20px;
+	margin-top:10px;
 	float: left;
 	clear: both;
+	border: 1px solid #81A8D9;
 }
 footer section.sectors a.button:hover{
 	background-color: #6f97c8;
+	border: 1px solid #fff;
 }
 footer p, footer a{
 	padding: 5px;
@@ -472,7 +475,9 @@ footer p{
 footer input[type="submit"]{
 	border: 1px solid #f7f7f7;
 }
-
+footer form{
+	margin-top: 28px;
+}
 footer form div{
 	padding-bottom: 5px;
 }

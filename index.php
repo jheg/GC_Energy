@@ -174,7 +174,7 @@
 				<p>+44 (0)207 183 9509</p>
 			</section>
 			<section class="sectors grid_4">
-				<h2>BROWSE JOBS BY SECTOR</h2>
+				<h2>BROWSE JOBS BY CATEGORY</h2>
 				<ul>
 					<li><a href="#" class="button">OIL &amp; GAS</a></li>
 					<li><a href="#" class="button">RENEWABLE ENERGY</a></li>
