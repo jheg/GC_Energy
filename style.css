@@ -65,7 +65,7 @@ a {
 
 nav div{
 	position: relative;
-	margin-top: 140px;
+	margin-top: 50px;
 }
 header{
 	width: 100%;
@@ -84,6 +84,13 @@ a.main-logo {
 	overflow: hidden;
 	position: relative;
 	margin: 20px 0 20px 30px;
+}
+header p.tel{
+	font-size: 1.25em;
+	clear: both;
+	text-align: right;
+	padding: 10px 10px 10px 0;
+	color: #e94103;
 }
 header form{
 	float: right;
@@ -165,6 +172,9 @@ section.banner {
 	height: 405px;
 	clear:both;
 }
+
+
+
 .slider ul li img {
 	height:400px;
 
@@ -315,9 +325,6 @@ section.tabbed_jobs{
     color: #555;
     line-height: 120%;
 }
-.location{
-    background-color: blue;
-}
 .sector{
     float: right;
     margin-top: 75px;
@@ -350,9 +357,7 @@ input, textarea{
 	border-radius: 0px;
 	border: 0px;
 }
-footer form div{
-	padding: 5px;
-}
+
 input[type="text"],
 input[type="email"],
 input[type="tel"],
@@ -395,6 +400,18 @@ ul.cats li a{
 	display: inline-block;
 	margin-top: 2px;
 }
+section div.testimonials_side{
+	margin: 10px;
+	padding: 30px 20px;
+}
+section div.testimonials_side p.test_excerpt{
+	font-style: italic;
+}
+section div.testimonials_side p.name{
+	margin: 5px 0;
+	color: #e94103;
+	font-style: normal;
+}
 
 /* ------------------------------------------------
  FOOTER
@@ -421,9 +438,36 @@ footer p{
 footer input[type="submit"]{
 	border: 1px solid #f7f7f7;
 }
+footer form{
+	padding: 5px 10px;
+	background-color: #ccc;
+}
+footer form div{
+	padding-bottom: 5px;
+}
 footer input[type="text"],
 footer input[type="email"],
 footer input[type="tel"],
 footer textarea{
 	border: none;
+	width: 95%;
+	background-color: #81A8D9;
+}
+footer textarea{
+	height: 70px;
+}
+::-webkit-input-placeholder {
+   color: #ddd;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #ddd;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #ddd;  
+}
+
+:-ms-input-placeholder {  
+   color: #ddd;  
 }

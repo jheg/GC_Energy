@@ -37,6 +37,7 @@
 				<input type="submit" class="searchbutton" value=">">
 			</form>
         	</div>
+        	<p class="tel">Call 0207 183 9509</p>
 			<nav class="grid_12 clearfix">
 	        	<div class="clearfix">
 	                <ul class="main-nav clearfix">
@@ -108,6 +109,13 @@
 			</section>
 		</main>
 		<section class="sidebar grid_4 omega">
+			<section>
+				<div class="testimonials_side">
+					<p class="test_excerpt">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at blandit arcu. Quisque vel eros."</p>
+					<p class="name">Jason Hegarty</p>
+					<p class="location">England</p>
+				</div>
+			</section>
 			<section class="frame">
 				<h2>BROWSE JOBS BY INDUSTRY</h2>
 				<ul class="cats">
@@ -156,14 +164,7 @@
 	<div class="clearfix"></div>
 	<footer>
 		<div class="container">
-			<section class="testimonials grid_3">
-				<h2>RECENT TESTIMONIALS</h2>
-				<div class="testimonial">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at blandit arcu. Quisque vel eros.</p>
-					<p class="name">Jason Hegarty</p>
-					<p class="locartion">England</p>
-				</div>
-			</section>
+
 			<section class="address grid_3">
 				<h2>OUR ADDRESS</h2>
 				<P>GC Energy Ltd<br />Street Address<br />City<br />Post Code</P>
@@ -177,9 +178,8 @@
 					<li><a href="#">FINANCE</a></li>
 				</ul>
 			</section>
-			<section class="grid_3 omega">
+			<section class="grid_6 omega">
 			<h2>GET IN TOUCH</h2>
-			<p>Fill out the form and submit your message</p>
 			<form action="/my-handling-form-page" method="post">
 				<div>
 					<label for="first_name"></label>
@@ -199,7 +199,7 @@
 				</div>
 				<div>
 					<label for="msg"></label>
-					<textarea id="msg" tabindex="12" placeholder="OPTIONAL: enter a message for example: I'm interested in job ID00500"></textarea>
+					<textarea id="msg" tabindex="12" placeholder="Enter your message here ..."></textarea>
 				</div>
 				<div>
 					<input id="submit" tabindex="13" value="Send" type="submit">
