@@ -31,13 +31,8 @@
         	<a href="#" class="main-logo">GC Energy Partners</a>
         	</div>
         	<div class="grid_6 none">
-        	<div class="grid_12">
-        	<form action="" method="get">
-				<input name="search" type="text" value="" maxlength="150" placeholder="Search Jobs">
-				<input type="submit" class="searchbutton" value=">">
-			</form>
-        	</div>
-        	<p class="tel">Call 0207 183 9509</p>
+
+        	<p class="tel">Call our team today 0207 183 9509</p>
 			<nav class="grid_12 clearfix">
 	        	<div class="clearfix">
 	                <ul class="main-nav clearfix">
@@ -116,6 +111,13 @@
 					<p class="location">England</p>
 				</div>
 			</section>
+			<section class="frame searchbar">
+				<h2>Search Jobs</h2>
+        		<form action="" method="get">
+				<input name="search" type="text" value="" maxlength="150" placeholder="Enter keyword">
+				<input type="submit" class="searchbutton" value=">">
+				</form>
+			</section>
 			<section class="frame">
 				<h2>BROWSE JOBS BY INDUSTRY</h2>
 				<ul class="cats">
@@ -165,20 +167,22 @@
 	<footer>
 		<div class="container">
 
-			<section class="address grid_3">
+			<section class="address grid_4">
 				<h2>OUR ADDRESS</h2>
-				<P>GC Energy Ltd<br />Street Address<br />City<br />Post Code</P>
+				<P>GC Energy Ltd<br />1 Chapter House<br />18 Dunbridge Street<br />London<br />EC2 6GF</P>
+				<p>www.gcenergypartners.com</p>
+				<p>+44 (0)207 183 9509</p>
 			</section>
-			<section class="sectors grid_3">
+			<section class="sectors grid_4">
 				<h2>BROWSE JOBS BY SECTOR</h2>
 				<ul>
-					<li><a href="#">OIL &amp; GAS</a></li>
-					<li><a href="#">RENEWABLE ENERGY</a></li>
-					<li><a href="#">MINING</a></li>
-					<li><a href="#">FINANCE</a></li>
+					<li><a href="#" class="button">OIL &amp; GAS</a></li>
+					<li><a href="#" class="button">RENEWABLE ENERGY</a></li>
+					<li><a href="#" class="button">MINING</a></li>
+					<li><a href="#" class="button">FINANCE</a></li>
 				</ul>
 			</section>
-			<section class="grid_6 omega">
+			<section class="grid_4 omega">
 			<h2>GET IN TOUCH</h2>
 			<form action="/my-handling-form-page" method="post">
 				<div>
