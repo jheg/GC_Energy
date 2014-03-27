@@ -32,7 +32,7 @@
         	</div>
         	<div class="grid_6 none">
 
-        	<p class="tel">Call our team today 0207 183 9509</p>
+        	<p class="tel">Call our team today <a href="#">0207 183 9509</a></p>
 			<nav class="grid_12 clearfix">
 	        	<div class="clearfix">
 	                <ul class="main-nav clearfix">
