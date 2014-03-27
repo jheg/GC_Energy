@@ -90,6 +90,9 @@ header p.tel{
 	color: #555;
 	font-weight: normal;
 }
+header p.tel a {
+	color:#81a8d9;
+}
 header form{
 	float: right;
 	margin-right: 10px;
