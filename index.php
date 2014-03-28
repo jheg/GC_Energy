@@ -49,12 +49,12 @@
 		
 	</header>
 	<section class="banner">
-    	<div class="slider">
+    	<!-- <div class="slider">
             <ul>
                   <li><img src="img/banner-test-1.jpg" /></li>
                   <li><img src="img/banner-test-2.jpg" /></li>
             </ul>
-        </div>
+        </div> -->
 		
 	</section>
 	<div class="container"> 
