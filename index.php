@@ -63,12 +63,30 @@
         </div> -->
 		
 	</section>
+    <div class="new-intro clearfix">
+    <div class="container"> 
+		<div class="grid_8">
+        	<h1>The recruitment hub for the energy sector</h1>
+			<p>GC Energy is a global provider to many industry leaders within the Energy sector. Providing contract, Permanent and temporary staffing solutions we are able to fill the talent shortage in a number of key markets. Our client portfolio consists of Major Oil operators and contractors right the way to commodity traders & Interdealer brokers. With our main hub in London we operate world-wide in order to meet our clients’ needs and respond rapidly to requests for specialist candidates, wherever they are required. Our teams cover different sectors of employment and the EAMEA regions, allowing us to give clients effective market knowledge and full focus during the hiring process.</p>
+		</div>
+        <div class="grid_3">
+        	<section>
+				<div class="testimonials_side">
+					<p class="test_excerpt">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at blandit arcu. Quisque vel eros."</p>
+					<p class="name">Jason Hegarty</p>
+					<p class="location">England</p>
+				</div>
+			</section>
+        </div>
+    </div>
+    </div>
 	<div class="container"> 
 		<main class="grid_8">
+        <!--
 			<section class="intro">
 				<h1>The recruitment hub for the energy sector</h1>
 				<p>GC Energy is a global provider to many industry leaders within the Energy sector. Providing contract, Permanent and temporary staffing solutions we are able to fill the talent shortage in a number of key markets. Our client portfolio consists of Major Oil operators and contractors right the way to commodity traders & Interdealer brokers. With our main hub in London we operate world-wide in order to meet our clients’ needs and respond rapidly to requests for specialist candidates, wherever they are required. Our teams cover different sectors of employment and the EAMEA regions, allowing us to give clients effective market knowledge and full focus during the hiring process.</p>
-			</section>
+			</section> -->
 			<section class="tabbed_jobs">
 				<ul class="tabs" data-persist="true">
 				    <li><a href="#view1">Oil &amp; Gas</a></li>
@@ -110,13 +128,13 @@
 			</section>
 		</main>
 		<section class="sidebar grid_4 omega">
-			<section>
+			<!-- <section>
 				<div class="testimonials_side">
 					<p class="test_excerpt">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at blandit arcu. Quisque vel eros."</p>
 					<p class="name">Jason Hegarty</p>
 					<p class="location">England</p>
 				</div>
-			</section>
+			</section> -->
 			<section class="frame searchbar">
 				<h2>Search Jobs</h2>
         		<form action="" method="get">
