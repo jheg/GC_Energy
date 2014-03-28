@@ -194,6 +194,21 @@ section.banner {
 	background-image:url(img/sky.jpg);
 	background-position:center top;
 	height:395px;	
+	text-align:right;
+}
+.banner h1,
+.banner h2 {
+	color:#fff;	
+}
+.banner h1 {
+	font-size:70px;
+	font-weight:300;
+	margin-bottom:10px;
+	padding-top:200px;
+	clear:both;	
+}
+.banner h2 {
+	font-size:24px;	
 }
 /* ------------------------------------------------
  Intro
