@@ -49,6 +49,8 @@
 		
 	</header>
 	<section class="banner">
+    	<h1>Finding you a position...</h1>
+        <h2>...withing the energey industry</h2>
     	<!-- <div class="slider">
             <ul>
                   <li><img src="img/banner-test-1.jpg" /></li>
