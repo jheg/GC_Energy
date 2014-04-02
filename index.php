@@ -1,6 +1,9 @@
 <?php include('includes/head.php'); ?>
 <?php include('includes/header.php'); ?>
 
+
+
+	<!-- BANNER SECTION STARTS HERE -->
 	<section class="banner">
     	<div class="container"> 
 		<div class="grid_12">
@@ -16,6 +19,10 @@
         </div> -->
 		
 	</section>
+	<!-- END OF BANNER SECTION -->
+
+
+	<!-- INTRO SECTION AND TESTIMONIALS START HERE -->
     <div class="new-intro clearfix">
     <div class="container"> 
 		<div class="grid_8">
@@ -33,6 +40,9 @@
         </div>
     </div>
     </div>
+    <!-- END OF INTRO AND TESTIMONIAL SECTION -->
+
+    <!-- START OF MAIN CONTENT AREA -->
 	<div class="container"> 
 		<main class="grid_8">
         <!--
@@ -82,7 +92,11 @@
 		</main>
 <?php include('includes/sidebar.php'); ?>
 	</div>
+	<!-- END OF MAIN CONTENT AREA -->
+	
 	<div class="clearfix"></div>
+
+
 <?php include('includes/footer.php'); ?>
         <script type="text/javascript">
 
