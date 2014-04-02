@@ -1,3 +1,5 @@
+	<div class="clearfix"></div>
+
 	<footer>
 		<div class="container">
 
@@ -46,3 +48,6 @@
 			</section>
 		</div>
 	</footer>
+
+</body>
+</html>

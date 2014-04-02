@@ -94,21 +94,6 @@
 	</div>
 	<!-- END OF MAIN CONTENT AREA -->
 	
-	<div class="clearfix"></div>
 
 
 <?php include('includes/footer.php'); ?>
-        <script type="text/javascript">
-
-	$(document).ready(function(){
-		
-		$('.slider ul').bxSlider({
-			pager		:	true,
-			auto		:	true,
-			controls	:	true,
-		});
-		 
-	});
-</script>
-</body>
-</html>
