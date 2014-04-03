@@ -1,27 +1,3 @@
-<section class="sidebar grid_4 omega">
-	<!-- <section>
-		<div class="testimonials_side">
-			<p class="test_excerpt">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at blandit arcu. Quisque vel eros."</p>
-			<p class="name">Jason Hegarty</p>
-			<p class="location">England</p>
-		</div>
-	</section> -->
-	<section class="frame searchbar">
-		<h2>Search Jobs</h2>
-		<form action="" method="get">
-		<input name="search" type="text" value="" maxlength="150" placeholder="Enter keyword">
-		<input type="submit" class="searchbutton" value=">">
-		</form>
-	</section>
-	<section class="frame">
-		<h2>BROWSE JOBS BY INDUSTRY</h2>
-		<ul class="cats">
-			<li><a href="#">OIL &amp; GAS</a></li>
-			<li><a href="#">RENEWABLE ENERGY</a></li>
-			<li><a href="#">MINING</a></li>
-			<li><a href="#">FINANCE</a></li>
-		</ul>
-	</section>			
 	<section id="send_cv" class="frame">
 		<h2>Send us your CV</h2>
 		<p>Some text that appeals to potential candidates and encourages them to send you their cv.</p>
@@ -55,5 +31,3 @@
 			</div>		
 		</form>
 	</section>
-	
-</section>

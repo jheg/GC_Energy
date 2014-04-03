@@ -464,6 +464,25 @@ section.sidebar .searchbar input[type="submit"]{
 	border-radius: 0;
 
 }
+/*-------------------------------------------------
+ JOB FILTERS
+-------------------------------------------------*/
+.filters aside{
+	margin-bottom: 30px;
+}
+.filters aside ul{
+	margin-left: 5px;
+}
+.filter_header{
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 10px;
+}
+.filters aside a:link, 
+.filters aside a:visited, 
+.filters aside a:hover, 
+.filters aside a:active {
+	color: #81A8D9;
+}
 /* ------------------------------------------------
  FOOTER
 -------------------------------------------------*/

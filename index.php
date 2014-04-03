@@ -90,7 +90,13 @@
 				</div>
 			</section>
 		</main>
-<?php include('includes/sidebar.php'); ?>
+		<section class="sidebar grid_4 omega">
+			<?php include('includes/search_widget.php'); ?>
+			<?php include('includes/browse_widget.php'); ?>
+			<?php include('includes/cv_widget.php'); ?>
+				
+		</section>
+
 	</div>
 	<!-- END OF MAIN CONTENT AREA -->
 	
