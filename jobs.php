@@ -67,43 +67,43 @@
                 </aside>
             </div>
             </section>
-            <section class="grid_8 none">
-                <div class="frame jobs">
+            <section class="grid_8">
+                <div class="jobs">
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
-                        <p><span>Description: </span>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
+                        <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
-                        <p><span>Description: </span>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
+                        <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
-                        <p><span>Description: </span>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
+                        <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
-                        <p><span>Description: </span>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
+                        <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
-                        <p><span>Description: </span>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
+                        <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
-                        <p><span>Description: </span>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
+                        <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
                     </div>
                 </div>
             </section>
