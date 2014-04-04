@@ -73,12 +73,12 @@
         </div> -->
 		
 	</section>
-    <div class="container"> 
+    <!--<div class="container"> 
         <div id="banner_text" class="grid_12">
             <h1>GC Energy Partners</h1>
             <h2>Finding you a position withing the energey industry</h2>
         </div>
-    </div>
+    </div>-->
 	<!-- END OF BANNER SECTION -->
 
 
