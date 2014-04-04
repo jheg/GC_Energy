@@ -53,7 +53,14 @@ google.maps.event.addDomListener(window, "resize", function() {
     google.maps.event.trigger(map, "resize");
     map.setCenter(center); 
 });
-        
+
+        var marker = new google.maps.Marker({
+    position: map.getCenter(),
+    icon: 'img/7wf87.gif',
+    map: map,
+    animation: google.maps.Animation.BOUNCE
+  });
+
         var myControl = document.getElementById('banner_text');
         map.controls[google.maps.ControlPosition.TOP_CENTER].push(myControl);
 
