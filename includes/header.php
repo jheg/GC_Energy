@@ -1,3 +1,4 @@
+</head>
 <body>
 	<header>
 		<div class="container">
@@ -11,7 +12,7 @@
 	        	<div class="clearfix">
 	                <ul class="main-nav clearfix">
 	                    <li id="current"><a href="#">Home</a></li>
-	                    <li><a href="#">About</a></li>
+	                    <li><a href="about.php">About</a></li>
 	                    <li><a href="#">Clients</a></li>
 	                    <li><a href="#">Candidates</a></li>
 	                    <li><a href="jobs.php">Jobs</a></li>
