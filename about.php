@@ -34,6 +34,7 @@
             center: new google.maps.LatLng(51.5240123,-0.0655878),
             zoom: 12,
             mapTypeControl: true,
+            scrollwheel: false,
             zoomControl: true,
             zoomControlOptions: {
             style: google.maps.ZoomControlStyle.SMALL
@@ -45,6 +46,13 @@
         };
         var map = new google.maps.Map(document.getElementById("the_map"),
         mapOptions);
+        
+// this is our gem
+google.maps.event.addDomListener(window, "resize", function() {
+    var center = map.getCenter();
+    google.maps.event.trigger(map, "resize");
+    map.setCenter(center); 
+});
         
         var myControl = document.getElementById('banner_text');
         map.controls[google.maps.ControlPosition.TOP_CENTER].push(myControl);
