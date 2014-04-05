@@ -35,7 +35,6 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Pathway Gothic One', sans-serif;
 	color: #222;
 }
 h1{ font-size: 1.75em; color: #333; margin-bottom: 1em;}
@@ -183,7 +182,7 @@ section.banner {
 	background:#fff;
 	border: 1px solid #bebebe;
     padding: 30px 20px;
-	margin:10px;
+	margin-bottom: 10px;
 	font-size:14px;
 	line-height:130%;	
 }
@@ -487,7 +486,6 @@ section.sidebar .searchbar input[type="submit"]{
 	margin-left: 5px;
 }
 .filter_header{
-	border-bottom: 1px solid #CCC;
 	margin-bottom: 10px;
 }
 .filters aside a:link, 
@@ -497,12 +495,11 @@ section.sidebar .searchbar input[type="submit"]{
 	color: #81A8D9;
 }
 /* Jobs */
-.jobs{
-	border: 1px solid #EEE;
-}
+
 .the_job{
 	border-bottom: 1px solid #EEE;
 	padding: 20px;
+	overflow: auto;
 }
 .the_job h4{
 	color: #666;
@@ -514,10 +511,14 @@ section.sidebar .searchbar input[type="submit"]{
 	font-weight: bold;
 }
 .the_job h4.desc{
-	margin-top: 10px;
+	margin-top: 5px;
 }
 .the_job p{
 	font-size: 0.80em;
+	margin-top: 3px;
+}
+.the_job a.button{
+	float: right;
 }
 /*-------------------------------------------------
 THE MAP
@@ -542,7 +543,7 @@ footer h2{
 
 	margin-bottom: 20px; 
 }
-footer section.sectors a.button{
+a.button{
 	background-color: #81A8D9;
     padding:5px;
     border-radius: 4px;
@@ -553,7 +554,7 @@ footer section.sectors a.button{
 	clear: both;
 	border: 1px solid #81A8D9;
 }
-footer section.sectors a.button:hover{
+a.button:hover{
 	background-color: #6f97c8;
 	border: 1px solid #fff;
 }
