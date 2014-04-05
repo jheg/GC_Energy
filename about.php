@@ -56,7 +56,6 @@ google.maps.event.addDomListener(window, "resize", function() {
 
         var marker = new google.maps.Marker({
     position: map.getCenter(),
-    icon: 'img/7wf87.gif',
     map: map,
     animation: google.maps.Animation.BOUNCE
   });
