@@ -521,13 +521,28 @@ section.sidebar .searchbar input[type="submit"]{
 	float: right;
 }
 /*-------------------------------------------------
-THE MAP
+THE MAP & CONTACT
 -------------------------------------------------*/
 #the_map{
 	width: 100%;
 	height: 400px;
 	background-color: black;
 	position: relative;
+}
+.contact h1{
+	font-size: 2.5em;
+	margin: 20px 0 0 10px;
+	color: #555;
+
+}
+.contact address{
+	font-size: 2em;
+	margin: 20px 0 0 10px;
+	line-height: 1.15em;
+}
+.contact p.tel{
+	font-size: 1.5em;
+	margin: 20px 0 0 10px;
 }
 /* ------------------------------------------------
  FOOTER
