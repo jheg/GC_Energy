@@ -57,7 +57,7 @@ google.maps.event.addDomListener(window, "resize", function() {
         var marker = new google.maps.Marker({
     position: map.getCenter(),
     map: map,
-    animation: google.maps.Animation.BOUNCE
+    animation: google.maps.Animation.DROP
   });
 
         var myControl = document.getElementById('banner_text');
