@@ -521,6 +521,37 @@ section.sidebar .searchbar input[type="submit"]{
 	float: right;
 }
 /*-------------------------------------------------
+THE JOB PAGE
+-------------------------------------------------*/
+
+.job_key_points{
+	padding: 20px 0;
+	color: #B3B3B3;
+}
+.job_key_points a{
+	color: #81A8D9;
+}
+.job_page p{
+	line-height: 1.7em;
+}
+.job_page h3{
+	font-weight: bold;
+	padding: 20px 0 5px 0;
+}
+.job_page li{
+	list-style-type: square;
+	margin-left: 20px;
+	line-height: 2.2em;
+}
+table.job_key_points tr td{
+	border-bottom: 1px solid #E7E7E7;
+	padding: 10px 0 10px 5px;
+}
+table.job_key_points tr:first-child td{
+	border-top: 1px solid #E7E7E7;
+}
+
+/*-------------------------------------------------
 THE MAP & CONTACT
 -------------------------------------------------*/
 #the_map{

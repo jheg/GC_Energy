@@ -74,42 +74,42 @@
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
                         <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
-                        <a href="#" class="button">View Job</a>
+                        <a href="the-job.php" class="button">View Job</a>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
                         <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
-                        <a href="#" class="button">View Job</a>
+                        <a href="the-job.php" class="button">View Job</a>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
                         <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
-                        <a href="#" class="button">View Job</a>
+                        <a href="the-job.php" class="button">View Job</a>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
                         <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
-                        <a href="#" class="button">View Job</a>
+                        <a href="the-job.php" class="button">View Job</a>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
                         <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
-                        <a href="#" class="button">View Job</a>
+                        <a href="the-job.php" class="button">View Job</a>
                     </div>
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>
                         <h4><span>Location: </span>Edinburgh</h4>
                         <h4><span>Start Date: </span>ASAP</h4>
                         <h4 class="desc"><span>Description: </span></h4><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p>
-                        <a href="#" class="button">View Job</a>
+                        <a href="the-job.php" class="button">View Job</a>
                     </div>
                 </div>
             </section>
