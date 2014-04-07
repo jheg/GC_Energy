@@ -7,8 +7,11 @@
 	<section class="banner">
     	<div class="container"> 
 		<div class="grid_12">
+			<div class="grid_5 omega"><img src="img/oil_rig.jpg"></div>
+			<div class="grid_7 omega">
             <h1>GC Energy Partners</h1>
             <h2>Finding you a position withing the energey industry</h2>
+            </div>
         </div>
         </div>
     	<!-- <div class="slider">

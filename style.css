@@ -190,10 +190,15 @@ section.banner {
 /* temp banner styles */
 
 .banner {
-	background-image:url(img/sky.jpg);
+	background-image:url(img/random_grey_variations.png);
 	background-position:center top;
 	height:395px;	
 	text-align:right;
+}
+.banner img{
+	width: 100%;
+	margin-top: 50px;
+	border: 1px solid #C3C3C3;
 }
 #banner_text{
 	z-index: 99999;
@@ -208,14 +213,14 @@ section.banner {
 	color:#fff;	
 }
 .banner h1, #banner_text h1 {
-	font-size:70px;
+	font-size:55px;
 	font-weight:300;
 	margin-bottom:10px;
-	padding-top:200px;
+	padding-top:150px;
 	clear:both;	
 }
 .banner h2, #banner_text h2 {
-	font-size:24px;	
+	font-size:20px;	
 }
 #banner_text h1, #banner_text h2{
 	padding: 0 0 10px 10px;
