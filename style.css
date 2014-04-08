@@ -125,6 +125,9 @@ nav ul.main-nav{
 	border-radius:4px 4px 0px 0px;
 	overflow:hidden;
 	margin-right: 0px;
+	max-width: none;
+	background: #000;
+	padding: 0;
 }
 nav ul{
 	margin: 0;
@@ -156,7 +159,37 @@ nav li{
 nav li:last-child{
 	border-right: none;
 }
+.navheader { 
+  font-size: 12px;
+}
+.slide_trigger {
+  display: none; /* need this */
+  border: 1px solid #CCCCCC;
+  cursor: pointer;
+  margin: 0 15px 15px 15px;
+  padding: 10px 5px;
+  background: #81A8D9;
+  color: #fff;
+}
 
+.slide_trigger span {
+  background-image: url("img/dropdown-arrows.png");
+  background-position: 0 -14px;
+  display: block;
+  float: right;
+  margin-top: 3px;
+  height: 14px;
+  width: 32px;
+}
+@media only screen and (max-width: 560px) {
+  .slide_trigger { display: block; }
+    .no-js .slide_trigger { display: none; }
+  .main-nav { display: none; }
+    .no-js .main-nav { display: block; }
+  nav ul.main-nav { margin: 0 15px; top: 34px; left: 0; overflow: visible;}
+  .main-nav li { float: none; }
+  .main-nav li a:link { border-bottom: 1px solid #ddd; padding-top: 10px; padding-bottom: 10px;}
+}
 /* ------------------------------------------------
 SLIDESHOW
 -------------------------------------------------*/
