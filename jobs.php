@@ -8,7 +8,7 @@
     	<div class="container"> 
 		<div class="grid_12">
             <h1>GC Energy Partners</h1>
-            <h2>Finding you a position withing the energey industry</h2>
+            <h2>Finding you a position withing the energy industry</h2>
         </div>
         </div>
     	<!-- <div class="slider">

@@ -99,15 +99,17 @@ google.maps.event.addDomListener(window, "resize", function() {
     <!-- START OF MAIN CONTENT AREA -->
     <div class="container"> 
         <main class="grid_8 contact">
-          <h1>Get in touch.</h1>
-          <address>
-            GC Energy Ltd<br />
-            1 Chapter House<br />
-            18 Dunbridge Street<br />
-            London<br />
-            EC2 6GF
-          </address>
-          <p class="tel">Call our team today <a href="#">0207 183 9509</a></p>
+          <section class="contact_details_box">
+            <h1>Get in touch.</h1>
+            <address>
+              GC Energy Ltd<br />
+              1 Chapter House<br />
+              18 Dunbridge Street<br />
+              London<br />
+              EC2 6GF
+            </address>
+            <p class="tel">Call our team today <a href="#">0207 183 9509</a></p>
+          </section>
         </main>
 
         <section class="sidebar grid_4 omega">
