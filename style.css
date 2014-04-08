@@ -192,8 +192,9 @@ section.banner {
 .banner {
 	background-image:url(img/random_grey_variations.png);
 	background-position:center top;
-	height:395px;	
+	min-height:395px;	
 	text-align:right;
+	overflow: auto;
 }
 .banner img{
 	width: 100%;
@@ -565,6 +566,9 @@ THE MAP & CONTACT
 	background-color: black;
 	position: relative;
 }
+.contact{
+	text-align: center;
+}
 section.contact_details_box{
 	border: 1px solid #EEE;
 	display: inline-block;
@@ -572,6 +576,7 @@ section.contact_details_box{
 	border-radius: 25px;
 	background-color: #DEE;
 	margin-top: 30px;
+	text-align: left;
 }
 .contact h1{
 	font-size: 2.5em;
