@@ -7,8 +7,8 @@
 	<section class="banner">
     	<div class="container"> 
         <div class="grid_12">
-            <div class="grid_5 omega"><img src="img/drilling_personnel.jpg"></div>
-            <div class="grid_7 omega">
+            <div class="grid_4 omega"><img src="img/drilling_personnel.jpg"></div>
+            <div class="grid_8 omega">
             <h1>GC Energy Partners</h1>
             <h2>Finding you a position within the energy industry</h2>
             </div>
@@ -54,6 +54,10 @@
                             <td class="grid_6 none omega">Start Date:</td>
                             <td class="grid_6 none omega">ASAP</td>
                         </tr>
+                        <tr>
+                            <td class="grid_6 none omega">Job ID:</td>
+                            <td class="grid_6 none omega">ID00100</td>
+                        </tr>
                     </tbody>
                 </table>
                 <h3>Job Description</h3>
@@ -75,9 +79,9 @@
             </div>
         </main>
         <section class="sidebar grid_4 omega">
+        <?php include('includes/search_widget.php'); ?>            
         <?php include('includes/cv_widget.php'); ?>
         <?php include('includes/browse_widget.php'); ?>
-        <?php include('includes/search_widget.php'); ?>
                 
         </section>
         

@@ -7,8 +7,8 @@
 	<section class="banner">
     	<div class="container"> 
         <div class="grid_12">
-            <div class="grid_5 omega"><img src="img/oil_rig_at_night.jpg"></div>
-            <div class="grid_7 omega">
+            <div class="grid_4 omega"><img src="img/oil_rig.jpg"></div>
+            <div class="grid_8 omega">
             <h1>GC Energy Partners</h1>
             <h2>Finding you a position within the energy industry</h2>
             </div>
@@ -31,7 +31,7 @@
             <section class="grid_3">
                 <div class="filters">
                 <aside>
-                    <h2 class="filter_header">Sector</h2>
+                    <h2 class="filter_header">Industry</h2>
                     <ul>
                         <li><a href="#">All</a></li>
                         <li><a href="#">Oil &amp; Gas</a></li>

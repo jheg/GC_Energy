@@ -2,10 +2,10 @@
 <body>
 	<header>
 		<div class="container">
-			<div class="grid_6 notopbottom">
+			<div class="grid_5 notopbottom">
         	<a href="#" class="main-logo">GC Energy Partners</a>
         	</div>
-        	<div class="grid_6 none">
+        	<div class="grid_7 none">
 
         	<p class="tel">Call our team today <a href="#">0207 183 9509</a></p>
 
@@ -14,7 +14,7 @@
 	        		<h2 class="navheader slide_trigger">Menu <span></span></h2>
 	                <ul class="main-nav clearfix">
 	                    <li id="current"><a href="#">Home</a></li>
-	                    <li><a href="about.php">About</a></li>
+	                    <li><a href="about.php">Contact Us</a></li>
 	                    <li><a href="#">Clients</a></li>
 	                    <li><a href="#">Candidates</a></li>
 	                    <li><a href="jobs.php">Jobs</a></li>

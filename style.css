@@ -63,15 +63,17 @@ header{
 }
 a.main-logo {
 	display: block;
-	width: 93px;
-	height: 93px;
-	background-image: url(img/main-logo.png);
+	width: 125px;
+	height: 125px;
+	background-image: url(img/gcenergy_logo.png);
+	background-size: 125px;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	position: relative;
 	margin: 10px 0px 10px 0px;
 }
+
 header p.tel{
 	font-size: 1.15em;
 	clear: both;
@@ -111,7 +113,7 @@ NAV
 -------------------------------------------------*/
 nav div{
 	position: relative;
-	margin-top: 75px;
+	margin-top: 102px;
 }
 nav ul.main-nav{
 	float: right;
@@ -225,13 +227,12 @@ section.banner {
 .banner {
 	background-image:url(img/random_grey_variations.png);
 	background-position:center top;
-	min-height:395px;	
+	min-height:250px;	
 	text-align:right;
 	overflow: auto;
 }
 .banner img{
 	width: 100%;
-	margin-top: 50px;
 	border: 1px solid #A1A1A1;
 }
 #banner_text{
@@ -250,7 +251,7 @@ section.banner {
 	font-size:55px;
 	font-weight:300;
 	margin-bottom:10px;
-	padding-top:150px;
+	padding-top: 50px;
 	clear:both;	
 }
 .banner h2, #banner_text h2 {
@@ -265,7 +266,7 @@ section.banner {
  Intro
 -------------------------------------------------*/
 .new-intro {
-	background-color:#fff;
+	/*background-color:#fff;*/
 	font-weight:300;	
 	font-size:14px;
 	padding-top:20px;
@@ -595,7 +596,7 @@ THE MAP & CONTACT
 -------------------------------------------------*/
 #the_map{
 	width: 100%;
-	height: 400px;
+	height: 250px;
 	background-color: black;
 	position: relative;
 }

@@ -7,8 +7,8 @@
 	<section class="banner">
     	<div class="container"> 
 		<div class="grid_12">
-			<div class="grid_5 omega"><img src="img/oil_rig.jpg"></div>
-			<div class="grid_7 omega">
+			<div class="grid_4 omega"><img src="img/oil_rig_at_night.jpg"></div>
+			<div class="grid_8 omega">
             <h1>GC Energy Partners</h1>
             <h2>Finding you a position within the energy industry</h2>
             </div>
@@ -28,11 +28,11 @@
 	<!-- INTRO SECTION AND TESTIMONIALS START HERE -->
     <div class="new-intro clearfix">
     <div class="container"> 
-		<div class="grid_8">
+		<div class="grid_8 notopbottom">
         	<h1>The recruitment hub for the energy sector</h1>
 			<p>GC Energy is a global provider to many industry leaders within the Energy sector. Providing contract, Permanent and temporary staffing solutions we are able to fill the talent shortage in a number of key markets. Our client portfolio consists of Major Oil operators and contractors right the way to commodity traders & Interdealer brokers. With our main hub in London we operate world-wide in order to meet our clients’ needs and respond rapidly to requests for specialist candidates, wherever they are required. Our teams cover different sectors of employment and the EAMEA regions, allowing us to give clients effective market knowledge and full focus during the hiring process.</p>
 		</div>
-        <div class="grid_3">
+        <div class="grid_3 notopbottom">
         	<section>
 				<div class="testimonials_side">
 					<p class="test_excerpt">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at blandit arcu. Quisque vel eros."</p>
