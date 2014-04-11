@@ -78,15 +78,7 @@ google.maps.event.addDomListener(window, "resize", function() {
 
 	<!-- BANNER SECTION STARTS HERE -->
 <section class="banner">
-      <div class="container"> 
-    <div class="grid_12">
-      <div class="grid_4 omega"><img src="img/subsea_vessel_small.jpg"></div>
-      <div class="grid_8 omega">
-            <h1>GC Energy Partners</h1>
-            <h2>Finding you a position within the energy industry</h2>
-            </div>
-        </div>
-        </div>
+  <section id="the_map"></section>
       <!-- <div class="slider">
             <ul>
                   <li><img src="img/banner-test-1.jpg" /></li>
@@ -95,7 +87,7 @@ google.maps.event.addDomListener(window, "resize", function() {
         </div> -->
     
   </section>
-	<!--<section id="the_map"></section>-->
+
     <!--<div class="container"> 
         <div id="banner_text" class="grid_12">
             <h1>GC Energy Partners</h1>
