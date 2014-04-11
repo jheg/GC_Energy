@@ -265,6 +265,10 @@ section.banner {
 /* ------------------------------------------------
  Intro
 -------------------------------------------------*/
+section.homepage_info{
+	padding: 20px;
+	overflow: auto;
+}
 .new-intro {
 	/*background-color:#fff;*/
 	font-weight:300;	

@@ -28,10 +28,12 @@
 	<!-- INTRO SECTION AND TESTIMONIALS START HERE -->
     <div class="new-intro clearfix">
     <div class="container"> 
+    	<section class="homepage_info">
 		<div class="grid_8 notopbottom">
         	<h1>The recruitment hub for the energy sector</h1>
-			<p>GC Energy is a global employment business solely focused on the Energy sector. Offering executive search, contract, permanent and manpower staffing solutions we are able to fill the talent shortage in a number of key markets within the oil &amp; gas, renewable energy, mining and finance industries. 
-				Our client portfolio consists of blue chip organisations and SME’s including major operators, contractors, service companies, commodity trading companies and financial institutions’. 
+			<p>GC Energy is a global employment business solely focused on the Energy sector. Offering executive search, contract, permanent and manpower staffing solutions we are able to fill the talent shortage in a number of key markets within the oil &amp; gas, renewable energy, mining and finance industries.</p> 
+			<br />
+			<p>Our client portfolio consists of blue chip organisations and SME’s including major operators, contractors, service companies, commodity trading companies and financial institutions’. 
 				With our main hub in London and an operational base in Singapore we operate world-wide in order to meet our clients and candidate’s needs - to respond efficiently to requests for specialist personnel, wherever they are required. 
 				We cover different sectors of employment across EMEA regions and strive to deliver a knowledgeable and reliable service to both clients and candidates during the hiring process.</p>
 		</div>
@@ -44,6 +46,7 @@
 				</div>
 			</section>
         </div>
+        </section>
     </div>
     </div>
     <!-- END OF INTRO AND TESTIMONIAL SECTION -->
@@ -80,6 +83,15 @@
 				        	<div class="grid_6 desc_excerpt"><h2>MWD/LWD Engineer</h2><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p></div>
 				        	<div class="grid_3 omega sector"><a href="#" class="button">View Listing</a></div>
 				        </div>
+				        <div class="job_excerpt">
+				        	<div class="grid_3 job_pic omega"><img src="" height="100" width="100"></div>
+				        	<div class="grid_6 desc_excerpt"><h2>MWD/LWD Engineer</h2><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p></div>
+				        	<div class="grid_3 omega sector"><a href="#" class="button">View Listing</a></div>
+				        </div>				        <div class="job_excerpt">
+				        	<div class="grid_3 job_pic omega"><img src="" height="100" width="100"></div>
+				        	<div class="grid_6 desc_excerpt"><h2>MWD/LWD Engineer</h2><p>Our client is a leading oilfield service company operating worldwide. They strive by attracting and retaining top talent ...</p></div>
+				        	<div class="grid_3 omega sector"><a href="#" class="button">View Listing</a></div>
+				        </div>				   
                         <div class="view-more clearfix">
                         	<a href="#">View more in Gas &amp; Oil &raquo;</a>
                         </div>
