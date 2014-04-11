@@ -30,7 +30,10 @@
     <div class="container"> 
 		<div class="grid_8 notopbottom">
         	<h1>The recruitment hub for the energy sector</h1>
-			<p>GC Energy is a global provider to many industry leaders within the Energy sector. Providing contract, Permanent and temporary staffing solutions we are able to fill the talent shortage in a number of key markets. Our client portfolio consists of Major Oil operators and contractors right the way to commodity traders & Interdealer brokers. With our main hub in London we operate world-wide in order to meet our clients’ needs and respond rapidly to requests for specialist candidates, wherever they are required. Our teams cover different sectors of employment and the EAMEA regions, allowing us to give clients effective market knowledge and full focus during the hiring process.</p>
+			<p>GC Energy is a global employment business solely focused on the Energy sector. Offering executive search, contract, permanent and manpower staffing solutions we are able to fill the talent shortage in a number of key markets within the oil &amp; gas, renewable energy, mining and finance industries. 
+				Our client portfolio consists of blue chip organisations and SME’s including major operators, contractors, service companies, commodity trading companies and financial institutions’. 
+				With our main hub in London and an operational base in Singapore we operate world-wide in order to meet our clients and candidate’s needs - to respond efficiently to requests for specialist personnel, wherever they are required. 
+				We cover different sectors of employment across EMEA regions and strive to deliver a knowledgeable and reliable service to both clients and candidates during the hiring process.</p>
 		</div>
         <div class="grid_3 notopbottom">
         	<section>
