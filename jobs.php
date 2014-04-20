@@ -27,8 +27,55 @@
 
     <!-- START OF MAIN CONTENT AREA -->
     <div class="container"> 
+        <section class="grid_11 frame filters2">
+            <div class="filters">
+                <div class="filter_sections">
+                <h3>Industry: </h3>
+                <ul>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">All</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Oil &amp; Gas</a>
+                        <ul>
+                            <li><label for=""></label><input type="checkbox" id="" ><a href="#">Drilling</a>
+                            </li>
+                            <li><label for=""></label><input type="checkbox" id="" ><a href="#">Subsea Engineering</a>
+                                <ul>
+                                    <li><label for=""></label><input type="checkbox" id="" ><a href="">Pipeline</a>
+                                    </li>
+                                    <li><label for=""></label><input type="checkbox" id="" ><a href="">Structural</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><label for=""></label><input type="checkbox" id="" ><a href="#">Subsea Technical</a>
+                                <ul>
+                                    <li><label for=""></label><input type="checkbox" id="" ><a href="">ROV</a>
+                                    </li>
+                                    <li><label for=""></label><input type="checkbox" id="" ><a href="">Survey &amp; Inspection</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><label for=""></label><input type="checkbox" id="" ><a href="">Well Services</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Renewable Energy</a>
+                    </li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Mining</a>
+                    </li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Finance</a>
+                    </li>
+                </ul>
+                </div>
+                <div class="filter_sections"><h3>Job Type: </h3></div>
+                <div class="filter_sections"><h3>Location: </h3></div>
+                <div class="filter_sections"><h3>Date Added: </h3></div>
+                
+                
+                
+            </div>
+        </section>
         <main class="grid_7 frame">
-            <section class="grid_3">
+
+            <!--<section class="grid_3">
                 <div class="filters">
                 <aside>
                     <h2 class="filter_header">Industry</h2>
@@ -95,8 +142,8 @@
                     </ul>
                 </aside>
             </div>
-            </section>
-            <section class="grid_9 omega">
+            </section>-->
+            <section class="grid_12 omega">
                 <div class="jobs">
                     <div class="the_job">
                         <h2>MWD/LWD Engineer</h2>

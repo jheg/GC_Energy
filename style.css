@@ -577,6 +577,39 @@ section.sidebar .searchbar input[type="submit"]{
 	float: right;
 }
 /*-------------------------------------------------
+ JOB FILTERS & JOBS TAKE TWO!
+-------------------------------------------------*/
+section.filters2{
+	overflow: auto;
+}
+.filter_sections{
+	clear: both;
+	margin-bottom: 10px;
+}
+.filters2 li{text-align: left; padding: 3px; line-height: 1em;}
+.filters2 li input{width: auto; margin: 0;}
+section.filters2 li a{ font-size: 0.85em; line-height: 1em; margin-left: 5px;}
+section.filters2>.filters>.filter_sections>ul>li>ul>li{
+	display: inline-block;
+	margin-right: 30px;
+	vertical-align: top;
+}
+section.filters2>.filters>.filter_sections>ul>li>ul>li{
+	margin-top: 6px;
+	margin-left: 10px;
+}
+section.filters2>.filters>.filter_sections>ul>li>ul>li>ul{
+	margin-top: 6px;
+	margin-left: 10px;
+}
+.filters{
+	padding: 0 20px;
+}
+section.filters2 h3{
+	color: #DDD;
+}
+
+/*-------------------------------------------------
 THE JOB PAGE
 -------------------------------------------------*/
 
