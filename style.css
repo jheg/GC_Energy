@@ -579,8 +579,11 @@ section.sidebar .searchbar input[type="submit"]{
 /*-------------------------------------------------
  JOB FILTERS & JOBS TAKE TWO!
 -------------------------------------------------*/
+
 section.filters2{
 	overflow: auto;
+	display: none;
+	transition: 0.5s ease;  
 }
 .filter_sections{
 	clear: both;

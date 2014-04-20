@@ -27,7 +27,19 @@
 
     <!-- START OF MAIN CONTENT AREA -->
     <div class="container"> 
-        <section class="grid_11 frame filters2">
+        <script type="text/javascript">
+        <!--
+            function toggle_visibility(id) {
+               var e = document.getElementById(id);
+               if(e.style.display == 'block')
+                  e.style.display = 'none';
+               else
+                  e.style.display = 'block';
+            }
+        //-->
+        </script>
+        <div class="grid_12 clearfix"><a href="#" class="button" onclick="toggle_visibility('foo');">Show/Hide Filters</a></div>
+        <section class="grid_11 frame filters2" ID="foo">
             <div class="filters">
                 <div class="filter_sections">
                 <h3>Industry: </h3>
