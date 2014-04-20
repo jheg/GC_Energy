@@ -584,7 +584,11 @@ section.filters2{
 }
 .filter_sections{
 	clear: both;
-	margin-bottom: 10px;
+	margin-bottom: 14px;
+}
+.filter_sections.inline li{
+	display: inline-block;
+	margin-right: 30px;
 }
 .filters2 li{text-align: left; padding: 3px; line-height: 1em;}
 .filters2 li input{width: auto; margin: 0;}
@@ -597,24 +601,28 @@ section.filters2 li a:active{
 	margin-left: 5px;
 	color: #81A8D9;
 }
+section.filters2>.filters>.filter_sections>ul>li{
+	margin-bottom: 5px;
+}
 section.filters2>.filters>.filter_sections>ul>li>ul>li{
 	display: inline-block;
 	margin-right: 30px;
 	vertical-align: top;
 }
-section.filters2>.filters>.filter_sections>ul>li>ul>li{
-	margin-top: 6px;
-	margin-left: 10px;
+section.filters2>.filters>.filter_sections>ul>li>ul{
+	margin-top: 10px;
+	margin-left: 13px;
 }
 section.filters2>.filters>.filter_sections>ul>li>ul>li>ul{
-	margin-top: 6px;
-	margin-left: 10px;
+	margin-top: 3px;
+	margin-left: 13px;
 }
 .filters{
 	padding: 0 20px;
 }
 section.filters2 h3{
-	color: #DDD;
+	color: #AAA;
+	margin-bottom: 2px;
 }
 
 /*-------------------------------------------------

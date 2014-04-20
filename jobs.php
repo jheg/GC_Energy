@@ -38,20 +38,20 @@
                             <li><label for=""></label><input type="checkbox" id="" ><a href="#">Drilling</a>
                             </li>
                             <li><label for=""></label><input type="checkbox" id="" ><a href="#">Subsea Engineering</a>
-                                <ul>
+                                <!--<ul>
                                     <li><label for=""></label><input type="checkbox" id="" ><a href="">Pipeline</a>
                                     </li>
                                     <li><label for=""></label><input type="checkbox" id="" ><a href="">Structural</a>
                                     </li>
-                                </ul>
+                                </ul>-->
                             </li>
                             <li><label for=""></label><input type="checkbox" id="" ><a href="#">Subsea Technical</a>
-                                <ul>
+                                <!--<ul>
                                     <li><label for=""></label><input type="checkbox" id="" ><a href="">ROV</a>
                                     </li>
                                     <li><label for=""></label><input type="checkbox" id="" ><a href="">Survey &amp; Inspection</a>
                                     </li>
-                                </ul>
+                                </ul>-->
                             </li>
                             <li><label for=""></label><input type="checkbox" id="" ><a href="">Well Services</a>
                             </li>
@@ -65,9 +65,36 @@
                     </li>
                 </ul>
                 </div>
-                <div class="filter_sections"><h3>Job Type: </h3></div>
-                <div class="filter_sections"><h3>Location: </h3></div>
-                <div class="filter_sections"><h3>Date Added: </h3></div>
+                <div class="filter_sections inline">
+                <h3>Job Type: </h3>
+                <ul>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">All</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Permenant</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Temporary</a></li>
+                </ul>
+                </div>
+                <div class="filter_sections inline">
+                <h3>Location: </h3>
+                <ul>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">All</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Africa</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Americas</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Asia</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Australia</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Europe</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Middle East</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Russia</a></li>
+                </ul>
+                </div>
+                <div class="filter_sections inline">
+                <h3>Date Added: </h3>
+                <ul>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">All</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Last 24 hours</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Last 7 days</a></li>
+                    <li><label for=""></label><input type="checkbox" id="" ><a href="#">Last 28 days</a></li>
+                </ul>
+                </div>
                 
                 
                 
