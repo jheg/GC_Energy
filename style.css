@@ -588,7 +588,15 @@ section.filters2{
 }
 .filters2 li{text-align: left; padding: 3px; line-height: 1em;}
 .filters2 li input{width: auto; margin: 0;}
-section.filters2 li a{ font-size: 0.85em; line-height: 1em; margin-left: 5px;}
+section.filters2 li a:link,
+section.filters2 li a:visited,
+section.filters2 li a:hover,
+section.filters2 li a:active{
+	font-size: 0.85em; 
+	line-height: 1em; 
+	margin-left: 5px;
+	color: #81A8D9;
+}
 section.filters2>.filters>.filter_sections>ul>li>ul>li{
 	display: inline-block;
 	margin-right: 30px;
