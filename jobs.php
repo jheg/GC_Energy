@@ -34,10 +34,36 @@
                     <h2 class="filter_header">Industry</h2>
                     <ul>
                         <li><a href="#">All</a></li>
-                        <li><a href="#">Oil &amp; Gas</a></li>
-                        <li><a href="#">Renewable Energy</a></li>
-                        <li><a href="#">Mining</a></li>
-                        <li><a href="#">Finance</a></li>
+                        <li><a href="#">Oil &amp; Gas</a>
+                            <ul>
+                                <li><a href="#">Drilling</a>
+                                </li>
+                                <li><a href="#">Subsea Engineering</a>
+                                    <ul>
+                                        <li><a href="">Pipeline</a>
+                                        </li>
+                                        <li><a href="">Structural</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">Subsea Technical</a>
+                                    <ul>
+                                        <li><a href="">ROV</a>
+                                        </li>
+                                        <li><a href="">Survey &amp; Inspection</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="">Well Services</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Renewable Energy</a>
+                        </li>
+                        <li><a href="#">Mining</a>
+                        </li>
+                        <li><a href="#">Finance</a>
+                        </li>
                     </ul>
                 </aside>
                 

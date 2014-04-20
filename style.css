@@ -529,8 +529,17 @@ section.sidebar .searchbar input[type="submit"]{
 .filters aside{
 	margin-bottom: 30px;
 }
+.filters aside li{
+
+
+}
 .filters aside ul{
 	margin-left: 5px;
+}
+.filters>aside>ul>li>a:link,
+.filters>aside>ul>li>a:visited,
+.filters>aside>ul>li>a:hover,
+.filters>aside>ul>li>a:active{
 }
 .filter_header{
 	margin-bottom: 10px;
