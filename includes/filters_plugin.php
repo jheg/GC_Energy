@@ -67,7 +67,7 @@
                 <h4> Date</h4>
                 <input class="postform" type="date" name="ofpost_date[]" value="" />
                 </li>
-                <li><input class="postform" type="date" name="ofpost_date[]" value="" /></li>
+                <!--<li><input class="postform" type="date" name="ofpost_date[]" value="" /></li>-->
                 <li><input type="hidden" name="ofsubmitted" value="1">
                     <input type="submit" value="Submit">
                 </li>
