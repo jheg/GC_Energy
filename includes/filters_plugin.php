@@ -53,14 +53,14 @@
                 <li>
                 <h4>Location</h4>
                     <ul>
-                        <li class="cat-item cat-item-23"><label><input type='checkbox' name='ofrole[]' value='23' />All</label></li>
-                        <li class="cat-item cat-item-24"><label><input type='checkbox' name='ofrole[]' value='24' />Africa</label></li>
-                        <li class="cat-item cat-item-25"><label><input type='checkbox' name='ofrole[]' value='25' />Americas</label></li>
-                        <li class="cat-item cat-item-26"><label><input type='checkbox' name='ofrole[]' value='26' />Asia</label></li>
-                        <li class="cat-item cat-item-27"><label><input type='checkbox' name='ofrole[]' value='27' />Australia</label></li>
-                        <li class="cat-item cat-item-28"><label><input type='checkbox' name='ofrole[]' value='28' />Europe</label></li>
-                        <li class="cat-item cat-item-29"><label><input type='checkbox' name='ofrole[]' value='29' />Middle East</label></li>
-                        <li class="cat-item cat-item-30"><label><input type='checkbox' name='ofrole[]' value='30' />Russia</label></li>
+                        <li class="cat-item cat-item-23"><label><input type='checkbox' name='ofrole[]' value='23' /> All</label></li>
+                        <li class="cat-item cat-item-24"><label><input type='checkbox' name='ofrole[]' value='24' /> Africa</label></li>
+                        <li class="cat-item cat-item-25"><label><input type='checkbox' name='ofrole[]' value='25' /> Americas</label></li>
+                        <li class="cat-item cat-item-26"><label><input type='checkbox' name='ofrole[]' value='26' /> Asia</label></li>
+                        <li class="cat-item cat-item-27"><label><input type='checkbox' name='ofrole[]' value='27' /> Australia</label></li>
+                        <li class="cat-item cat-item-28"><label><input type='checkbox' name='ofrole[]' value='28' /> Europe</label></li>
+                        <li class="cat-item cat-item-29"><label><input type='checkbox' name='ofrole[]' value='29' /> Middle East</label></li>
+                        <li class="cat-item cat-item-30"><label><input type='checkbox' name='ofrole[]' value='30' /> Russia</label></li>
                     </ul>
                 </li>
                 <li>
