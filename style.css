@@ -615,10 +615,16 @@ section.filters2>.filter ul>li>ul{
 	margin-top: 10px;
 	margin-left: 13px;	
 }
-section.filters2>.filter ul>li{
-	
+section.filters2>.filter>form>div>ul>li{
+	float: left;
+	width: 45%;
+	margin-right: 10px;
+}
+section.filters2>.filter ul>li>ul>li{
+	display: block;
 
 }
+
 section.filters2>.filter ul>li>ul>li>ul{
 	margin-top: 3px;
 	margin-left: 13px;
@@ -629,6 +635,13 @@ section.filters2>.filter ul>li>ul>li>ul{
 section.filters2 h4{
 	color: #AAA;
 	margin-bottom: 2px;
+}
+section.filters2 li input[type="submit"]{
+	clear: both;
+	float: right;
+}
+section.filters2>.filter>form>div>ul>li:last-child{
+	width: 100%;
 }
 
 /*-------------------------------------------------
