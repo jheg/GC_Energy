@@ -78,22 +78,22 @@ google.maps.event.addDomListener(window, "resize", function() {
 
 	<!-- BANNER SECTION STARTS HERE -->
 <section class="banner">
-  <section id="the_map"></section>
+  <!--<section id="the_map"></section>-->
       <!-- <div class="slider">
             <ul>
                   <li><img src="img/banner-test-1.jpg" /></li>
                   <li><img src="img/banner-test-2.jpg" /></li>
             </ul>
         </div> -->
-    
+    <div class="container"> 
+        <div class="grid_12">
+            <h1>GC Energy Partners</h1>
+            <h2>Contact Us</h2>
+        </div>
+    </div>
   </section>
 
-    <!--<div class="container"> 
-        <div id="banner_text" class="grid_12">
-            <h1>GC Energy Partners</h1>
-            <h2>Finding you a position withing the energey industry</h2>
-        </div>
-    </div>-->
+    <!--
 	<!-- END OF BANNER SECTION -->
 
 

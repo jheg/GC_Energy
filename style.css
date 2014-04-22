@@ -619,8 +619,8 @@ section.filters2>.filter>form>div>ul>li{
 	float: left;
 	width: 48%;
 	margin-right: 1%;
-	background-color: #777;
-	color: #fff;
+	color: #81A8D9;
+	border: 1px solid #eee;
 }
 section.filters2>.filter ul>li>ul>li{
 	display: block;
@@ -636,7 +636,7 @@ section.filters2>.filter ul>li>ul>li>ul{
 }
 section.filters2 h4{
 	color: #DDD;
-	margin-bottom: 2px;
+	margin: 16px 0 16px 16px;
 }
 section.filters2 li input[type="submit"]{
 	clear: both;
@@ -644,6 +644,7 @@ section.filters2 li input[type="submit"]{
 }
 section.filters2>.filter>form>div>ul>li:last-child{
 	width: 98%;
+	border: none;
 }
 
 /*-------------------------------------------------
