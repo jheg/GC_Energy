@@ -584,6 +584,7 @@ section.filters2{
 	overflow: auto;
 	display: none;
 	transition: 0.5s ease;  
+	margin-top: 7px;
 }
 .filter_sections{
 	clear: both;
@@ -649,7 +650,19 @@ section.filters2>.filter>form>div>ul>li:last-child{
 	border: none;
 	background: none;
 }
-
+.filter_button{
+	margin-top: 20px;
+}
+.filter_button a{
+	background-color: #fff;
+	padding: 5px 10px;
+	border-left: 1px solid #bebebe;
+	border-top: 1px solid #bebebe;
+	border-right: 1px solid #bebebe;	
+	border-bottom: 1px solid #bebebe;	
+	font-size: 0.9em;
+	color: #9C6;
+}
 /*-------------------------------------------------
 THE JOB PAGE
 -------------------------------------------------*/

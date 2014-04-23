@@ -38,7 +38,7 @@
             }
         //-->
         </script>
-        <div class="grid_12 clearfix"><a href="#" class="button" onclick="toggle_visibility('foo');">Show/Hide Filters</a></div>
+        <div class="grid_12 filter_button clearfix"><a href="#" onclick="toggle_visibility('foo');">Show/Hide Filters</a></div>
         <section class="grid_11 frame filters2" ID="foo">
             <?php include('includes/filters_plugin.php'); ?>
         </section>
