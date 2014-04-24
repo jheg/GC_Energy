@@ -477,6 +477,102 @@ input[type="submit"]{
 input[type="submit"]:hover{
 	background-color: #6f97c8;
 }
+
+/* ------------------------------------------------
+ RTE
+------------------------------------------------ */
+
+.rte-content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#484848;	
+	line-height:140%;
+}
+.rte-content a:link,
+.rte-content a:visited,
+.rte-content a:active {
+	text-decoration:none;
+	color:#32bcaf;	
+}
+.rte-content a:hover {
+	text-decoration:underline;
+	color:#32bcaf;
+}
+.rte-content strong {
+	font-weight:bold;	
+}
+.rte-content em {
+	font-style:italic;	
+}
+.rte-content ul,
+.rte-content ol {
+	margin:20px;
+	list-style-position:inside;
+}
+.rte-content ul {
+	list-style-type:disc;
+}
+.rte-content ol {
+	list-style-type:decimal;
+}
+.rte-content li {
+	margin-bottom:3px;
+}
+.rte-content p {
+	margin-bottom:18px;	
+}
+.rte-content h1, 
+.rte-content h2,
+.rte-content h3,
+.rte-content h4 {
+	line-height:130%;
+	margin-bottom:10px;	
+}
+.rte-content h1 {
+	font-size: 1.3em;
+}
+.rte-content blockquote {
+	margin:0px 0px 20px 20px;
+	border-left:2px solid #bebebe;
+	padding:10px;
+	background-color:#f7f7f7;
+	font-style:italic;	
+	clear:both;
+}
+.rte-content blockquote p {
+	margin:0;
+	padding:0;	
+}
+.rte-content .alignleft {
+	float:left;
+	margin:20px 20px 20px 0px;	
+}
+.rte-content .alignright {
+	float:right;
+	margin:20px 0px 20px 20px;	
+}
+.rte-content .aligncenter {
+	clear:both;
+	margin:20px auto 20px auto;	
+	display:block;
+}
+.wp-caption {
+	background-color:#f7f7f7;
+	margin:0;
+	border:1px solid #bebebe;
+	padding-top:5px;
+}
+.wp-caption img {
+	margin:0 auto;
+	display:block;
+	padding-bottom:5px;
+}
+p.wp-caption-text {
+	text-align:center;	
+	font-size:10px;
+	margin-bottom:0;
+	padding-bottom:5px;
+}
 /* ------------------------------------------------
 Sidebar
 -------------------------------------------------*/
